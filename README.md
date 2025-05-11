@@ -167,9 +167,6 @@ This file manages the ultrasonic sensors and IR sensors for detecting vehicle po
 - **Database**: JSON-based storage (for demonstration purposes)
 - **Other Tools**: Vite, PostCSS, ESLint
 
-## Contributors
-- [Your Name](https://github.com/your-profile)
-- [Contributor Name](https://github.com/contributor-profile)
 
 ---
 
